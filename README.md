@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,I'm+Chanon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Chanon!)](https://git.io/typing-svg)
 
-==============================================================================================================================
+
 
 Programmer
 ----------
